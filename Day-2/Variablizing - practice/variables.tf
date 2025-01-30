@@ -1,0 +1,13 @@
+variable "region_name" {}
+variable "vpc_cidr_block" {}
+variable "vpc_tag" {}
+variable "IGW_TAG" {}
+variable "subnet_cidr_block" {}
+variable "subnet_az" {}
+variable "subnet_tag" {}
+variable "IGW_CIDR" {}
+variable "route_table_tag" {}
+variable "ami_id" {}
+variable "ec2_az" {}
+variable "ec2_instance_type" {}
+variable "key_name" {}
